@@ -98,4 +98,3 @@ We're always working hard on improving our documentation.
 You can help by submitting pull requests for fixes or issues for suggestions on `our GitHub repository <https://github.com/ros2/ros2_documentation>`__.
 
 Written purely in `ReST markup format <http://docutils.sourceforge.net/rst.html>`__, it is processed using Sphinx during `ROSIndex <https://github.com/ros-infrastructure/rosindex>`__ builds.
-`Intersphinx support <Contributing/Inter-Sphinx-Support>` is readily available for cross-linking package specific entities.
